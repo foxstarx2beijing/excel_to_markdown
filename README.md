@@ -23,7 +23,7 @@
 
 1. 克隆或下载此仓库
 ```bash
-git clone <repository-url>
+git clone https://github.com/foxstarx2beijing/excel_to_markdown
 cd excel_to_markdown
 ```
 
@@ -141,4 +141,4 @@ MIT
 
 ## 作者
 
-[你的名字] 
+foxstarx 
